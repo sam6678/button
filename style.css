@@ -1,0 +1,95 @@
+.default{
+    width: 70px;
+    height: 40px;
+    border: 0px;
+    background-color: rgba(89, 172, 0, 0.56);
+    border-radius: 3px;
+    margin: 10px;
+}
+.default:hover{
+    box-shadow: 0px 0px 5px 5px rgba(231, 6, 6, 0.3);
+}
+
+.primary{
+    width: 70px;
+    height: 40px;
+    border: 0px;
+    background-color: rgb(148, 85, 140);
+    border-radius: 3px;
+    margin: 10px;
+}
+.primary:hover{
+    box-shadow: 0px 0px 5px 5px rgba(2, 20, 35, 0.3);
+}
+
+.accent{
+    width: 70px;
+    height: 40px;
+    border: 0px;
+    background-color: rgb(227, 107, 16);
+    border-radius: 3px;
+    margin: 10px;
+}
+.accent:hover{
+    box-shadow: 0px 0px 5px 5px rgba(155, 18, 182, 0.3);
+}
+
+.danger{
+    width: 70px;
+    height: 40px;
+    border: 0px;
+    background-color: rgb(74, 74, 160);
+    border-radius: 3px;
+    margin: 10px;
+}
+.danger:hover{
+    box-shadow: 0px 0px 5px 5px rgba(192, 26, 26, 0.3);
+}
+
+.large{
+    width: 120px;
+    height: 70px;
+    border: 0px;
+    background-color: rgb(35, 255, 46);
+    border-radius: 3px;
+    margin: 10px;
+}
+.large:hover{
+    box-shadow: 0px 0px 5px 5px rgba(253, 224, 56, 0.3);
+}
+
+.small{
+    width: 50px;
+    height: 25px;
+    border: 0px;
+    background-color: rgb(233, 22, 22);
+    border-radius: 3px;
+    margin: 10px;
+}
+.small:hover{
+    box-shadow: 0px 0px 5px 5px rgba(43, 196, 13, 0.3);
+}
+
+.pill{
+    width: 70px;
+    height: 40px;
+    border: 0px;
+    background-color: rgb(239, 186, 10);
+    border-radius: 35px;
+    margin: 10px;
+}
+.pill:hover{
+    box-shadow: 0px 0px 5px 5px rgba(115, 80, 6, 0.3);
+}
+
+.custom{
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    background: linear-gradient(to right bottom, rgba(128, 161, 6, 0),rgb(7, 94, 129));
+    border-radius: 10px;
+    margin: 10px;
+}
+.custom:hover{
+    box-shadow: 0px 0px 5px 5px rgba(145, 37, 247, 0.3);
+}
